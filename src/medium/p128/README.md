@@ -1,3 +1,7 @@
+| Solved within time limit | Optimal solution | First Attempt Date |
+|--------------------------|------------------|--------------------|
+| ✅                        | 🟥               | 03/07/2024         |
+
 Due to a lot of tinkering with IntelliJ and Neovim, I ran up the clock on this problem.
 
 ## What I did right
