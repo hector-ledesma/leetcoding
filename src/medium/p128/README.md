@@ -1,4 +1,4 @@
-| Solved within time limit | Optimal solution | First Attempt Date |
+| Solved within time limit | Optimal solution | Attempt Date |
 |--------------------------|------------------|--------------------|
 | ✅                        | 🟥               | 03/07/2024         |
 
